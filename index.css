@@ -1,0 +1,16 @@
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tarjetas {
+    height: 100%;
+}
+
+.oferta {
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    padding: 1%;
+    border-radius: 10%;
+}
